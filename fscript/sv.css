@@ -981,7 +981,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 }
 .da-homeIcon {
     color: transparent !important;
-    background: url(https://github.com/svpa17/coi/main/fscript/home_icon%20(1).svg) center no-repeat; 
+    background: url(svpa17.github.io/coi/fscript/home_icon%20(1).svg) center no-repeat; 
     background-size: 36px;
     z-index: 2;
     width: 56px; height: 56px;
